@@ -11,7 +11,7 @@ Each line: the decision, who made it, why. Dates are in [log.md](log.md).
 - **UI follows the Stitch project** "AI Interior Design Platform" ([design.md](design.md)).
 - **GitHub repository is public.** The user chose to publish with the existing commit author address.
 - **Stitch screens for later phases stay as references** in `design/stitch/`; the two that match Phase 1 (client portal, studio dashboard) are built with real data only.
-- **Working rules** in `CLAUDE.md`: plan first, Fable 5.2, three kinds of tests, security review at every stage, commit per finished piece of code, subagents for specialist work, memory in `wiki/`.
+- **Working rules** in `CLAUDE.md`: plan first, Opus 5.5 for plan, Sonnet 5.5 for execute, three kinds of tests, security review at every stage, commit per finished piece of code, subagents for specialist work, memory in `wiki/`.
 
 ## By Claude (open to change)
 
